@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dreamcoding_habit_tracker/static/css/main.62994c76.chunk.css",
+    "main.js": "/dreamcoding_habit_tracker/static/js/main.804c5728.chunk.js",
+    "main.js.map": "/dreamcoding_habit_tracker/static/js/main.804c5728.chunk.js.map",
+    "runtime-main.js": "/dreamcoding_habit_tracker/static/js/runtime-main.27de4a1d.js",
+    "runtime-main.js.map": "/dreamcoding_habit_tracker/static/js/runtime-main.27de4a1d.js.map",
+    "static/js/2.d95e70e1.chunk.js": "/dreamcoding_habit_tracker/static/js/2.d95e70e1.chunk.js",
+    "static/js/2.d95e70e1.chunk.js.map": "/dreamcoding_habit_tracker/static/js/2.d95e70e1.chunk.js.map",
+    "static/js/3.4ac7199d.chunk.js": "/dreamcoding_habit_tracker/static/js/3.4ac7199d.chunk.js",
+    "static/js/3.4ac7199d.chunk.js.map": "/dreamcoding_habit_tracker/static/js/3.4ac7199d.chunk.js.map",
+    "index.html": "/dreamcoding_habit_tracker/index.html",
+    "static/css/main.62994c76.chunk.css.map": "/dreamcoding_habit_tracker/static/css/main.62994c76.chunk.css.map",
+    "static/js/2.d95e70e1.chunk.js.LICENSE.txt": "/dreamcoding_habit_tracker/static/js/2.d95e70e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27de4a1d.js",
+    "static/js/2.d95e70e1.chunk.js",
+    "static/css/main.62994c76.chunk.css",
+    "static/js/main.804c5728.chunk.js"
+  ]
+}
